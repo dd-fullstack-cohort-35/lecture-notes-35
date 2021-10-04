@@ -1,0 +1,116 @@
+# 1st Day Lecture
+
+## Fullstack Web Development Bootcamp: let's break it down
+- Developer
+    - Question: What does it mean to be a developer?
+    - To make something
+    - Making things work properly
+    - Improve something
+    - 
+    - A person who writes applications in computer code.
+    - This is you!  Right now!  You belong here.
+    - Attributes
+        - Problem solving
+        - Attention to detail
+        - Creative
+        - Tenacity
+        - Solutions
+        - Teamwork
+        - Empathy
+    - Developer is not the only career path coming out of this bootcamp, just the most common
+        - project manager
+        - technical recruiter
+        - designer
+        - UI/UX specialist
+        - business analyst
+- Web - Writing for the browser.
+    - Question: Which devices run browsers?
+        - Laptops/desktops
+        - Phones
+          -Tablets
+        - Screen readers
+        - Cars
+        - APIs
+        - More
+- Fullstack - Facile with both front-end and back-end development
+    - https://twitter.com/bluecoders/status/966624401172123649
+    - **front-end** - how the page looks and behaves
+        - HTML, CSS, JavaScript and related technologies
+        - Not the same as a designer!
+    - **back-end** - transforming data between human-readable and machine-readable formats
+        - **Database** - where our data is stored
+        - back-end language (PHP, Java, JavaScript, Python, Ruby, many others)
+- Bootcamp - 10 week intensive course
+    - Expect homework
+        - Almost 2/3 of our students report doing more than 10 hours per week outside of class.
+        - Last three weeks are especially intense
+    - We treat this like a professional environment, not a classroom
+        - Accountability: first you, then peers, then instructors.
+        - No personal attacks, rudeness, mocking, condescension, or other toxic interpersonal behavior.
+    - Bring your whole self
+        - Mental, emotional, and physical.
+        - Transparency!  If we know what's going on, we can help.
+        - Attendance and participation is mandatory - 50% of capstone
+
+## Congratulations on completing the pre-work/passing the test
+- The pre-work was a test of your ability to work through obstacles.
+- It was a taste of what the bootcamp and the rest of your coding career will will be like...
+- Coding and web development languages are changing constantly and fast
+- So fast that it's a common occurrence to come across tutorials and instructions that will be out of date...
+- ...like the ed25519 key type option in putty
+- This can be frustrating, but it's a part of being a developer.
+- If it was easy, everyone would do it, and it wouldn't pay as well.
+- We may not help you when you run into these obstacles, if we think it will deprive you of the opportunity:
+    - to develop your problem solving skills
+    - to experience the satisfaction of solving the problem yourself
+    - to develop a pattern of problem -> frustration -> experiment -> frustration -> research -> experiment -> frustration -> experiment -> solution -> celebrate!
+- We will usually only step in and help if we see the time being spent dealing with an obstacle is taking time away from another more important learning experience.
+
+## Classroom logistics
+- Some terms we sometimes use
+    - **TL;DR**: too long; didn't read.
+- Zoom intro
+    - breakout rooms
+    - chat
+    - we don't usually pay attention to nonverbal responses
+        - don't use "raise hand", speak up instead
+- Stand-up meetings: 15 minute meetings 8:00 a.m.
+    - What you did (including tech work/events outside of class)
+    - What you're going to do next
+- Code alongs
+    - twice a week
+    - about an hour
+    - make a github repo and push your code to it
+
+
+## Syllabus
+- http://ddc-web-curriculum.cnm.edu/syllabus/
+- Fullstack Javascript
+    - Used to be PHP
+        - Now there's one less language to learn
+        - JavaScript is growing quickly
+- Slack
+    - best way to reach instructors
+    - each of you has your own channel
+    - cohort-web-35
+    - current-community
+- Calendar: https://calendar.google.com/calendar?cid=Ym9vdGNhbXBjb2RlcnNAZ21haWwuY29t
+- GitHub: https://github.com/dd-fullstack-cohort-35
+    - All relevant example and other repos posted there
+    - Lecture Notes and assignments found in the lecture-notes repo
+- Note taking tools
+    - webstorm/GitHub
+    - any IDE
+    - otter.ai
+    - notepad
+    - notion
+    - keep
+    - markdown https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- Rubrics
+    - http://ddc-web-curriculum.cnm.edu/pwp-evaluation-rubric/
+    - http://ddc-web-curriculum.cnm.edu/capstone-grading-rubric/
+- Instructor availability
+    - Monday - Thursday 8:00 - 5:00
+    - Friday 8:00 - 12:00
+    - You can message outside of these hours, but may not get a response.
+    - Extended hours/weekends later in the semester.
