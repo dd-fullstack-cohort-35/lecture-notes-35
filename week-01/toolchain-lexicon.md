@@ -115,5 +115,6 @@ let anotherVariable = addNumbers(-14, 8);
 let thirdVariable = addNumbers(myVariable, anotherVariable)
 ```
 
-## Style Guide
+## Style Guides
 http://ddc-web-curriculum.cnm.edu/style-guide/
+https://google.github.io/styleguide/htmlcssguide.html
