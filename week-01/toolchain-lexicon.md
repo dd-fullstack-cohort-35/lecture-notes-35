@@ -76,7 +76,7 @@
 - **body** - the code inside of the function
 - **throws** - exceptions/errors that occur in the function and are passed back to the parent function
 - **function signature** - the unique name of the function, and how you call it in other locations
-    - $value = functionName(parameter1);
+    - value = functionName(parameter1);
 - **comment** - text in a code file that is there
 - **DocBlock**: special comment that defines how the function will behave
 - **type**: data type (IE int, string, array, object)
