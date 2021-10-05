@@ -8,6 +8,7 @@ Lecture notes, assignments, and other resources for Fullstack Cohort 35. This re
 ## Assignments
 All assignments are due before class at 8:00 a.m. on the due date.
 
-[comment]: <> (### Outstanding)
+### Outstanding
+* [UI/UX Challenge](https://classroom.github.com/a/xOZW-hZ8) Due Friday 10/8
 
 [comment]: <> (### Complete)
