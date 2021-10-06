@@ -18,3 +18,9 @@ console.log('doing it without the function', 2000-1000)
 
 // 	Function #2
 // Take two strings as arguments and return a value that has them concatenated.
+
+function combineTwoStrings(string1, string2){
+	return string1 + string2
+}
+
+console.log(combineTwoStrings('five ', 'one'))
