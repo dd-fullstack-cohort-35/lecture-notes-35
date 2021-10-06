@@ -1,0 +1,92 @@
+html, body {
+    background: hsl(50, 75%, 50%);
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+@media only screen and (max-width: 760px) {
+    html, body {
+        background-color: red;
+        color: brown;
+    }
+}
+
+section {
+    font-size: 0.5rem;
+    margin: 3rem 1rem;
+
+}
+
+article {
+    background-color: rgba(0, 216, 255, 0.5);
+    border: 1em dashed black;
+    border-radius: 25px;
+    max-height: auto;
+    padding: 15px 2em 30px 3em;
+    margin: 1em;
+    /*font-size: 0.5em;*/
+}
+
+.syntaxArticle {
+    position: relative;
+    /*top: 100px;*/
+    left: 50px;
+    /*z-index: -1;*/
+}
+
+p {
+    color: gold;
+    font-size: 2em;
+}
+
+.classSelect {
+    color: rgb(255, 0, 0);
+}
+
+.image {
+    max-width: 250px;
+    height: auto;
+}
+
+#starWars {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+}
+
+.flexbox {
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+    background-color: gray;
+}
+
+.flex-item {
+    padding: 5px;
+    margin: 1em;
+    background-color: blue;
+    /*flex-grow: 1;*/
+    flex-basis: 200px;
+}
+
+#idSelect {
+    color: blue;
+}
+
+
+.css-grid {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 2fr;
+}
+
+.grid-item {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+
+
+
+
+
