@@ -34,3 +34,7 @@ console.log(people[0])
 console.log(people)
 console.log(people[2])
 console.log(people[2].name + ' has ' + people[2].hairColor + ' hair.')
+
+
+// how can we use arrays of objects????
+people.forEach(person => console.log(person.name + ' has ' + person.hairColor + ' hair.'))
