@@ -1,5 +1,5 @@
 // Loop on the array below and remove the company index from each object.
-[{
+let people = [{
 	"id": 1,
 	"name": "Leanne Graham",
 	"username": "Bret",
@@ -190,3 +190,10 @@
 		"bs": "target end-to-end models"
 	}
 }]
+
+console.log(people[2].address.geo.lat, people[2].address.geo.lng)
+
+
+people.forEach(person => delete person.company)
+
+console.log(people)
