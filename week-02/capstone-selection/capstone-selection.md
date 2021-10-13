@@ -22,20 +22,20 @@
 - Free tier must not have throttling such that it can't feasibly be used
 - Prefer JSON. XML or CSV will be considered only as a last resort
 - We've used and loved the following datasets
-- Yelp
-- GitHub
-- Slack
-- ABQ Open Data https://www.cabq.gov/abq-data
-	- Twitter
-	- Reddit
-	- These datasets have not been verified
-- Spotify :notes:  https://developer.spotify.com/documentation/web-api/
-	- Awesome Public Dataset https://github.com/awesomedata/awesome-public-datasets#government
-	- Awesome JSON Datasets https://github.com/jdorfman/awesome-json-datasets#crime
-	- Todd Moto's List of Public Data https://github.com/toddmotto/public-apis
-- Rapid APIs most used Apis https://blog.rapidapi.com/most-popular-apis/
-	- We've used and hated the following datasets
-- Instagram
-- Any Payment APIs
-- sports data
-- Facebook
+  - Yelp
+  - GitHub
+  - Slack
+  - ABQ Open Data https://www.cabq.gov/abq-data
+  - Twitter
+  - Reddit
+- These datasets have not been verified
+  - Spotify :notes:  https://developer.spotify.com/documentation/web-api/
+  - Awesome Public Dataset https://github.com/awesomedata/awesome-public-datasets#government
+  - Awesome JSON Datasets https://github.com/jdorfman/awesome-json-datasets#crime
+  - Todd Moto's List of Public Data https://github.com/toddmotto/public-apis
+  - Rapid APIs most used Apis https://blog.rapidapi.com/most-popular-apis/
+- We've used and hated the following datasets
+  - Instagram
+  - Any Payment APIs
+  - sports data
+  - Facebook
