@@ -53,8 +53,8 @@ All work on capstones should follow the git flow model.
   - `git add my-file.txt`
   - `git commit -m "Adding some really cool code"`
   - `git pull`
-    - the first time you do this it will fail, and you will have to run `git push --set-upstream origin my-ticket` before trying again
   - `git push`
+    - the first time you do this it will fail, and you will have to run `git push --set-upstream origin my-ticket` before trying again
 - When your work is complete for a given ticket, merge it back into develop and push it to github
   - `git checkout develop`
   - `git pull`
