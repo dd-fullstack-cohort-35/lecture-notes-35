@@ -23,7 +23,6 @@
 
     * [Filter: get only the elements that we want](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 
-    * [Filter: get only the elements that we want](https://javascript.info/arrow-functions-basics)
     * [Reduce: combine all the elements in an array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
 - doSomething vs doSomething()
 ```javascript
