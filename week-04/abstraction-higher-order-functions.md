@@ -20,7 +20,10 @@
     * https://javascript.info/arrow-functions-basics
 * Using these techniques, we can quickly iterate over arrays using some built in functions and do cool stuff
     * [Map: do something to every element in an array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+
     * [Filter: get only the elements that we want](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+
+    * [Filter: get only the elements that we want](https://javascript.info/arrow-functions-basics)
     * [Reduce: combine all the elements in an array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
 - doSomething vs doSomething()
 ```javascript
