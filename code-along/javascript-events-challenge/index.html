@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+        name="viewport">
+  <meta content="ie=edge" http-equiv="X-UA-Compatible">
+  <!-- CSS only -->
+  <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" rel="stylesheet">
+    <title>JavaScript Events Challenge</title>
+</head>
+<body>
+<h1>JavaScript Events Challenge</h1>
+<section class="px-3 mt-3">
+  <h2>Change Text Color</h2>
+  <p id="text-color">Pokem ipsum dolor sit amet Politoed Mothim Drifblim Staravia Escavalier Scizor. Charmander Silcoon Timburr Hypno Ash Feraligatr Walrein. Sand-Attack Growl Rotom in voluptate velit esse cillum dolore eu fugiat nulla pariatur Chinchou Houndour Mantine. Gotta catch 'em all Omastar Alomomola Aerodactyl Strength Wartortle Pokemon Heroes. Cerulean City Vespiquen Shroomish Snivy Grotle Finneon Clefable.</p>
+  <button class="btn btn-primary" onclick="changeTextColor()">Change Color</button>
+  <button class="btn btn-danger" onclick="resetTextColor()">Reset</button>
+</section>
+
+<section class="px-3 mt-3">
+  <h2>Find And Replace</h2>
+    <p id="find-replace">Cascade Badge Pidgeotto Salamence Celadon Department Store Meowth Sealeo Marowak. Quis nostrud exercitation ullamco laboris nisi Dusknoir deserunt mollit Mismagius Hive Badge Wailmer Azumarill. Fighting Scyther Lillipup Corsola Gardevoir Meditite Magmar. Excepteur sint occaecat cupidatat non proident Hitmontop Swablu Stunfisk Weezing Machoke Budew. Boulder Badge Pikachu Minun Magikarp Herdier Manectric Weepinbell.</p>
+
+  <div class="row">
+    <form class="col-sm-6" onsubmit="findReplace(event)">
+      <div class="form-group">
+        <label for="text-find">Find</label>
+        <input class="form-control" id="text-find" type="text">
+      </div>
+      <div class="form-group">
+        <label for="text-replace">Replace</label>
+        <input class="form-control" id="text-replace" type="text">
+      </div>
+      <button class="btn btn-primary" type="submit">Submit</button>
+    </form>
+
+
+    <form class="col-sm-6" onsubmit="findReplaceRegex(event)">
+      <div class="form-group">
+        <label for="text-find-reg">Find</label>
+        <input class="form-control" id="text-find-reg" type="text">
+      </div>
+      <div class="form-group">
+        <label for="text-replace-reg">Replace</label>
+        <input class="form-control" id="text-replace-reg" type="text">
+      </div>
+      <button class="btn btn-primary" type="submit">Submit</button>
+    </form>
+  </div>
+</section>
+
+<section class="px-3 mt-3">
+  <h2>Shuffle Text</h2>
+  <p id="shuffle">Earthquake Drifloon Landorus Yellow Magnezone Doduo Ash's mother. Fog Badge Wobbuffet Latias Swinub searching far and wide Toxicroak Gardevoir. Electric what kind of Pokemon are you Meloetta Nuzleaf Qwilfish Bagon Nidoking. Pika-pi Vanillish Escape Rope Magmar Pelipper The Power Of One Klang. Pokemon The Movie 2000 Beartic Exeggcute Marshtomp Simisear Giratina Cofagrigus.</p>
+
+  <button class="btn btn-primary" onclick="shuffleText()">Shuffle Text</button>
+</section>
+
+<section class="px-3 m-3">
+  <h2>ROT13 Decoder</h2>
+  <div class="row">
+    <form class="col-sm-6" onsubmit="caesarCipher(event)">
+      <div class="form-group">
+        <label for="encoder">Input word to encode</label>
+        <input class="form-control" id="encoder" type="text">
+      </div>
+      <button class="btn btn-primary" type="submit">Submit</button>
+    </form>
+    <div class="col-sm-6">
+      <p id="encoded"> </p>
+    </div>
+  </div>
+
+</section>
+
+
+<script src="script.js"></script>
+</body>
+</html>
