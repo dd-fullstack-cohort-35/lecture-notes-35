@@ -38,4 +38,4 @@ containers are mini Virtual Machines running in isolation
 - Container orchestration
 
 ## Docker in-class demonstration
-Follow the instructions at https://github.com/Deep-Dive-Coding-Fullstack-Licensing/docker-intro
+Follow the instructions at https://github.com/dd-fullstack-cohort-35/docker-intro
