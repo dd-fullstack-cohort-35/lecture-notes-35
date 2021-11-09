@@ -27,12 +27,7 @@
           var myCarYear = 2004;
           var myCarKgs = 2000;
           var myCarColor = "blue";
-    
-          function go(make, year, kgs, color) {
-              alert(make + " " + kgs + " " + year + " " color);
-          };
-    
-          go(myCarMake, myCarYear, myCarKgs, myCarColor);
+			 alert(make + " " + kgs + " " + year + " " color);
           ```
         * Do things from the top of the code to the bottom of the code
         * Advantage: Easiest programming to pick up initially, simple control flow.
