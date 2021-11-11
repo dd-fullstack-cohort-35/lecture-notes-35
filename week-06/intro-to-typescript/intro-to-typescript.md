@@ -105,7 +105,7 @@
         - no more worrying if 1 == 'one' == '1' == [1] etc. (all evaluate to false)
     - Fancy object-oriented abilities - Mixins/Traits and Interface support
         - we don't use these in the bootcamp, but lots of other places do
-- For a five minute intro to Typescript checkout [Typescript handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
+- For a five minute intro to Typescript checkout [Typescript handbook](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
 
 ### ECMAScript
 - The specification that defines Javascript
